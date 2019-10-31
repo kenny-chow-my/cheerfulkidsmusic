@@ -2,7 +2,7 @@ baseURL: https://cheerfulkidsmusic.com/
 languageCode: en-us
 title: Cheerful Kids Music
 theme: hugo-fresh
-googleAnalytics: #Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-151182278-1 #Put in your tracking code without quotes like this: UA-XXXXXX...
 #Disables warningss
 disableKinds:
  -taxonomy
@@ -16,7 +16,7 @@ params:
   description: 
   navbarlogo:
   # Logo (from static/images/logos/___)
-   image: logos/fresh.svg
+   image: logos/ckmlogo.png
    link: /
   font:
     name: "Open Sans"
@@ -33,27 +33,19 @@ params:
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
-    clientlogos:
-    - systek
-    - tribe
-    - kromo
-    - infinite
-    - gutwork
+    # clientlogos:
+    # - systek
+    # - tribe
+    # - kromo
+    # - infinite
+    # - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Features
+  - title: About Instructor
     url: /
-  - title: Pricing
+  - title: Lesson Plan
     url: /
-  - title: Dropdown
-    sublinks:
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-  - title: Log in
+  - title: Benefits
     url: /
   - title: Sign up
     url: /
@@ -113,7 +105,7 @@ params:
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
       job: HR Manager
       img: 3
-  section5: true
+  section5: false
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg
@@ -132,7 +124,7 @@ params:
       icon: twitter
     - link: https://bitbucket.org/#
       icon: bitbucket
-    bulmalogo: true
+    bulmalogo: false
     quicklinks:
       column1:
         title: "Product"
