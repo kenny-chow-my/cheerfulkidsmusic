@@ -1,6 +1,6 @@
-baseURL: http://something-fresh.org/
+baseURL: https://cheerfulkidsmusic.com/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Cheerful Kids Music
 theme: hugo-fresh
 googleAnalytics: #Put in your tracking code without quotes like this: UA-XXXXXX...
 #Disables warningss
