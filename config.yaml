@@ -57,18 +57,18 @@ params:
   section2:
     title: You're here because you want the best
     subtitle: And we know it
-    image: activity2.png 
+    image: instruments.jpg 
     features:
     - title: Learn music theory in a fun way
       text: Ability to appreciate music at a young age and grasp theory concepts
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon: playlist
     - title: Early exposure to classical music 
       text: Get to know music by famous composers such as Mozart, Bach, and Beethoven
-      icon: doc-sync
+      icon: conductor
     - title: Build self-confidence 
       text: Helps improve social, emotional and cognitive skill
-      icon: mobile-feed
+      icon: confidence
   # section3:
   #   title: One platform
   #   subtitle: To rule them all
