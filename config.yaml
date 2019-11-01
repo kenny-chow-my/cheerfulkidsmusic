@@ -25,11 +25,11 @@ params:
     # Main hero title
     title: Cheerful Kids Music
     # Hero subtitle (optional)
-    subtitle: A unique music appreciation program for children
+    subtitle: A unique music appreciation program for children 
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "/about"
     # Hero image (from static/images/___)
     image: illustrations/peanut2.jpg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -42,118 +42,82 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: About Instructor
-    url: /
-  - title: Lesson Plan
-    url: /
-  - title: Benefits
-    url: /
-  - title: Sign up
-    url: /
-    button: true
+    url: /about
+  - title: Program Details
+    url: /program
+  - title: Hours & Contact
+    url: /contact
+  # - title: Sign up
+  #   url: /
+  #   button: true
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
-    tiles:
-    - title: App builder
-      icon: mouse-globe
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Free trial
-    - title: Cloud integration
-      icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
-    - title: Add-ons & plugins
-      icon: plug-cloud
-      text: This is some explanatory text that is on two rows
-      url: /
-      buttonText: Get started
+    title: Fun comes first
+    subtitle: but we immerse music theory into the lessons - kids will love it!
+    image: activity1.png  
   section2:
     title: You're here because you want the best
     subtitle: And we know it
+    image: activity2.png 
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Learn music theory in a fun way
+      text: Ability to appreciate music at a young age and grasp theory concepts
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Early exposure to classical music 
+      text: Get to know music by famous composers such as Mozart, Bach, and Beethoven
       icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Build self-confidence 
+      text: Helps improve social, emotional and cognitive skill
       icon: mobile-feed
-  section3:
-    title: One platform
-    subtitle: To rule them all
-    image: illustrations/mockups/app-mockup.png
-    buttonText: Get started
-    buttonLink: "#"
-  section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-    clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
-      img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
-      img: 3
+  # section3:
+  #   title: One platform
+  #   subtitle: To rule them all
+  #   image: illustrations/mockups/app-mockup.png
+  #   buttonText: Get started
+  #   buttonLink: "#"
+  # section4:
+  #   title: Our Clients love us!
+  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+  #   clients:
+  #   - name: Irma Walters
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Accountant
+  #     img: 1
+  #   - name: John Bradley
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Financial Analyst
+  #     img: 2
+  #   - name: Gary Blackman
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: HR Manager
+  #     img: 3
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
+    logo: ckmlogo_square.png
     # Social Media Title
-    socialmediatitle: Follow Us
+    # socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
-    socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
-      icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    # socialmedia:
+    # - link: https://github.com/lucperkins/github-fresh
+    #   # Icons are from Font Awesome
+    #   icon: github
+    # - link: https://dribbble.com/#
+    #   icon: dribbble
+    # - link: https://facebook.com/#
+    #   icon: facebook
+    # - link: https://twitter.com/lucperkins
+    #   icon: twitter
+    # - link: https://bitbucket.org/#
+    #   icon: bitbucket
     bulmalogo: false
     quicklinks:
       column1:
-        title: "Product"
+        title: "More Information"
         links:
-        - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Our roadmap
-          link: /
-        - text: AGB
-          link: /agb
-      column2:
-        title: "Docs"
-        links:
-        - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
-      column3:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+        - text: About Instructor
+          link: /about
+        - text: Program Details
+          link: /program
+        - text: Contact
+          link: /contact
