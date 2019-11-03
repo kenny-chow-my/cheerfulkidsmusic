@@ -53,11 +53,11 @@ params:
   section1:
     title: Fun comes first
     subtitle: but we immerse music theory into the lessons - kids will love it!
-    image: activity1.png  
+    image: instruments.jpg 
   section2:
     title: You're here because you want the best
     subtitle: And we know it
-    image: instruments.jpg 
+    image: activity1.png 
     features:
     - title: Learn music theory in a fun way
       text: Ability to appreciate music at a young age and grasp theory concepts
