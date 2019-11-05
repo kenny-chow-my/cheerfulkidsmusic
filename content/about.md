@@ -4,7 +4,7 @@ date: 2019-11-01T17:01:17+08:00
 ---
 
 
-Shelly holds double degrees with honors in Music and Business Administration from the State University of New York at Buffalo. Under the tutelage from Professor Charles J. Smith, she completed her thesis on analyzing a Piano Concerto by Rachmaninoff. During her studies, she discovered how to lay the basic foundation of music theory for beginners as well as experienced students. Shelly is a recipient of the Renaissance scholar, recognizing students who excel in two or more disciplines. Shelly had working experience at concert halls and the Singapore Symphony Orchestra for more than 2 years. 
+Shelly holds double degrees with honors in Music and Business Administration from the State University of New York at Buffalo. Under the tutelage from Professor Charles J. Smith, she completed her thesis on analyzing a Piano Concerto by Rachmaninoff. During her studies, she discovered how to lay the basic foundation of music theory for beginners as well as experienced students. Shelly is a recipient of the Renaissance scholar, recognizing students who excel in two or more disciplines. Shelly has working experience at concert halls and the Singapore Symphony Orchestra for several years. 
 <hr/>
 
 
