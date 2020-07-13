@@ -4,46 +4,26 @@ date: 2019-11-01T18:04:30+08:00
 draft: false
 ---
 
-{{% title4 "What is the program about" %}} 
+## Piano for Beginner 
 
-Many early childhood experts agree that music is an integral part of learning and development in a child’s growing age. This Music Appreciation program uses modern techniques with a play-based approach so that your child can rapidly learn the fundamentals and experience the joy of music. It is your child's first step to building musical foundation. 
+<img src="/images/icons/BearandMousewaving.png" style="float:right; padding-left: 2rem; padding-right: 2rem;"/>
+Music for Little Mozarts is a piano and music curriculum designed for children ages 4-6. This premier piano education provides a balance between the discipline necessary for playing the piano and enjoyment one receives from the process of music making. Children will learn new concepts such as keyboard performance, pitch matching, rhythm, and keyboard technique. Children will work on musical expressiveness related to tempo, dynamics, mood, and articulation. This program introduces children to compositions by major composers throughout the history of music such as Mozart, Bach, Beethoven, etc.
 
-___
+## Music Appreciation
 
-<center>
-![activity2](/images/activity2.png)
-</center>
+<img src="/images/icons/icons8-music-band-96.png" style="float:right; padding-left: 2rem; padding-right: 2rem;"/>
 
-{{% title4 "How each session is taught" %}} 
-Every term is carefully designed and curated to keep the children curious, interested and engaged. Fresh theme and new learning objectives are introduced in new term. Each class will focus on: 
-
-- Singing & solfege (do, re, mi), rhythm, beats, dynamics, tempo & various aspects
-- Playing percussion instruments such as triangle, shakers, tambourine and more
-- Learning musical notation through songs, rhymes, finger play, games, movements, art and fun music worksheets
-- Appreciation of classical music by famous composers such as Mozart, Bach, and Beethoven
+Our Music Appreciation program uses modern techniques with a play-based approach so that your child can rapidly learn the fundamentals and experience the joy of music.
+This program is your child's first step to building strong musical foundation through singing, story-telling, percussion instruments playing, games, and movement. Children will learn basics such as singing & solfege (do, re, mi, etc.), rhythm, beats, dynamics, tempo and various aspects of the musical world. On top of that, children will get their hands on percussion instruments such as shakers, triangle, drums, tambourine, resonator bells and more.
 
 ___
 
-{{% title4 "What are the key benefits" %}}
 
-- Ability to appreciate music at a young age and grasp theory concepts
-- Early exposure to classical music and nurture advanced aural skill
-- Fine tune a child's talent in music and creativity
-- Build self-confidence while improving social, emotional and cognitive skill
-- Cultivate learning and social skills that will prepare them for school
-- Encourage a child to be creative and imaginative
-- Encourage teamwork through peer interaction and communication
-- Enhance language development
-- Stimulate the brain
-- Learn to focus and listen to their surroundings
-- Develop coordination and motor skills
-- Refine discipline and patience
-- Introduce children to other culture
+## About the instructor
 
-___
+Shelly holds double degrees with honors (Summa Cum Laude) in Music and Business Administration from the State University of New York at Buffalo. Shelly is a recipient of the Renaissance scholar, which recognizes students who excel in two or more disciplines. She is also a member of Golden Key International Honor Society.
 
-{{% title4 "How this class can help your child" %}} 
-This early exposure to music will better equipped your child to move on to the next stage of their musical learning journey with picking up their favorite instruments such as piano, violin, guitar, drums and more.
+Under the tutelage from Professor Charles J. Smith, she completed her thesis on analyzing a Piano Concerto by Rachmaninoff. During her studies, she discovered how to lay the basic foundation of music theory for beginners such as young children, and more experienced students. She later obtained a piano performance diploma with honors from Trinity College of Music, London. Learning piano at an early age, Shelly has played the instrument both as a soloist and accompanist for various instrumental solo, voice solo, choir groups, music ensemble and other music collaboration. She has experience in teaching 1-to-1 piano classes and preschool classroom setting. She worked at Singapore Symphony Orchestra and has experience in managing concert events.  
 
 ## Ready to enrol?
 
