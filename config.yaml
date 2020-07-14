@@ -116,7 +116,6 @@ params:
     bulmalogo: false
     quicklinks:
       column1:
-        title: "More Information"
         links:
         - text: About Us
           link: /about
@@ -124,3 +123,10 @@ params:
           link: /programs
         - text: Contact Us
           link: /contact
+      column2:
+        links:
+        - text: Playlist
+          link: /playlist
+        - text: Credits
+          link: /credits
+        
