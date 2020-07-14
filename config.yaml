@@ -46,8 +46,8 @@ params:
   navbar:
   - title: About Us
     url: /about
-  - title: Program
-    url: /program
+  - title: Programs
+    url: /programs
   - title: Contact Us
     url: /contact
   # - title: Sign up
@@ -120,7 +120,7 @@ params:
         links:
         - text: About Us
           link: /about
-        - text: Program
-          link: /program
+        - text: Programs
+          link: /programs
         - text: Contact Us
           link: /contact

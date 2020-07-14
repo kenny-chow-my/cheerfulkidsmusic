@@ -1,5 +1,5 @@
 ---
-title: "About the Program"
+title: "Our Programs"
 date: 2019-11-01T18:04:30+08:00
 draft: false
 ---
@@ -24,6 +24,8 @@ ___
 Shelly holds double degrees with honors (Summa Cum Laude) in Music and Business Administration from the State University of New York at Buffalo. Shelly is a recipient of the Renaissance scholar, which recognizes students who excel in two or more disciplines. She is also a member of Golden Key International Honor Society.
 
 Under the tutelage from Professor Charles J. Smith, she completed her thesis on analyzing a Piano Concerto by Rachmaninoff. During her studies, she discovered how to lay the basic foundation of music theory for beginners such as young children, and more experienced students. She later obtained a piano performance diploma with honors from Trinity College of Music, London. Learning piano at an early age, Shelly has played the instrument both as a soloist and accompanist for various instrumental solo, voice solo, choir groups, music ensemble and other music collaboration. She has experience in teaching 1-to-1 piano classes and preschool classroom setting. She worked at Singapore Symphony Orchestra and has experience in managing concert events.  
+
+____
 
 ## Ready to enrol?
 

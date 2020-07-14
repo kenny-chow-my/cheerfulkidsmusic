@@ -4,13 +4,13 @@ date: 2019-11-01T17:01:17+08:00
 ---
 
 
-Many early childhood experts agree that music is an integral part of learning and development in a child’s growing age. Our programs uses modern techniques with a play-based approach so that your child can rapidly learn the fundamentals and experience the joy of music.
+Many early childhood experts agree that music is an integral part of learning and development in a child’s growing age. Our programs use modern techniques with a play-based approach so that your child can rapidly learn the fundamentals and experience the joy of music.
 
 #### Music sparks joy and an outlet for creative expression; it helps develop listening; it contributes to motor skill development (both fine and gross motor skills); and it increases the range and flexibility of the voice.
 
 ___
 
-Some of the key benefits include:
+_Key benefits of early childhood music education_:
 
 ![](/images/icons/playlist24.png) - Ability to appreciate music at a young age and grasp theory concepts
 
@@ -25,7 +25,8 @@ Some of the key benefits include:
 
 ___
 
-## We offer piano and music appreciation class for beginner:
+
+## We offer piano class, music appreciation and piano accompaniment for beginner:
 
 ### Piano Class
 In piano class, children will learn music through piano foundation and piano playing technique using Music for Little Mozarts program.
@@ -34,10 +35,13 @@ In piano class, children will learn music through piano foundation and piano pla
 ### Music Appreciation Class
 In music appreciation class, children will be introduced to music through singing, story-telling, percussion instruments playing, games, and movement.
 
+### Piano Accompaniment
+We provide piano accompaniment for exams, auditions or any performance. Typically we work with students or musicians in piano duet, violin, cello, flue, trumpet, solo singing / small vocal group, choir, guitar and band. For students who are taking music exams (ABRSM/ Trinity College), we can also prepare students for aural exam and sight singing. [Contact us](/contact) to enquire for more information. 
+
 ___
 
-## Learn more about our
+## Learn more
 
-<a class="button cta rounded primary-btn raised" href="/program">
+<a class="button cta rounded primary-btn raised" href="/programs">
     Programs
 </a>
